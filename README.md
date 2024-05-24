@@ -18,7 +18,7 @@ It is mostly focused around data science, Python and API development.
 * 🫂 Change Management
 
 
-### Examples
+### Project Examples:
 
 * 🚂 Coming soon!
 
