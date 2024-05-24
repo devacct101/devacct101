@@ -16,9 +16,15 @@ It is mostly focused around data science, Python and API development.
 * 🤵 Project Management and Leadership
 * 🏂 Agile development methodologies
 * 🫂 Change Management
-  
+
+
+### Examples
+
+* 🚂 Coming soon!
+
 
 It probably won't be the most popular account on Github but here is some statistics about how much it is used. 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devacct101)](https://github.com/anuraghazra/github-readme-stats)
 
