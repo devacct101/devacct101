@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+This is my Github development account which is used to host a mix of private and public repositories for personal development. 
+
+It is mostly focused around data science, Python and API development.
+
+It probably won't be the most popular account on Github but here is some statistics about how much it is used. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devacct101)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **devacct101/devacct101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
