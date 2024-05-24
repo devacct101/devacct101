@@ -1,8 +1,22 @@
-## Hi there 👋
+## Well, hello there👋
 
 This is my Github development account which is used to host a mix of private and public repositories for personal development. 
 
 It is mostly focused around data science, Python and API development.
+
+## My skills:
+
+### Hard Skills:
+* ➗ Data science (R, Python)
+* 💻 Data Querying with SQL
+* 🖼️ Data Visualisation with Power BI
+
+### Soft Skills:
+* 📖 Domain Knowledge
+* 🤵 Project Management and Leadership
+* 🏂 Agile development methodologies
+* 🫂 Change Management
+  
 
 It probably won't be the most popular account on Github but here is some statistics about how much it is used. 
 
