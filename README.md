@@ -20,7 +20,7 @@ It is mostly focused around data science, Python and API development.
 
 ### Project Examples:
 
-* ✌ [Link text] (https://devacct101.github.io/super-octo-potato/,'Creating a static web page on Github (in development)')
+* ✌ [Link text](https://devacct101.github.io/super-octo-potato/,'Creating a static web page on Github (in development)')
 * More coming soon
 
 
