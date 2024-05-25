@@ -9,9 +9,10 @@ It is mostly focused around data science, Python and API development.
 ### Hard Skills:
 * ➗ Data science (R, Python)
 * 👓 Data integration API Development (Python)
-* 💻 Data Querying with SQL, Spark
+* 💻 Data Querying with SQL, PySpark
 * 🖼️ Data Visualisation with Power BI
 * 💿 Basic HTML
+* 🖨 Microsoft Excel (doesnt everybody)
 
 ### Soft Skills:
 * 📖 Domain Knowledge
