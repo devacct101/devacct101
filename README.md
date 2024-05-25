@@ -20,7 +20,8 @@ It is mostly focused around data science, Python and API development.
 
 ### Project Examples:
 
-* 🚂 Coming soon!
+* ✌ [Link text] (https://devacct101.github.io/super-octo-potato/,'Creating a static web page on Github (in development)')
+* More coming soon
 
 
 It probably won't be the most popular account on Github but here is some statistics about how much it is used. 
