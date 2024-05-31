@@ -25,6 +25,8 @@ It is mostly focused around data science, Python and API development.
 
 * ✌ [Creating a static web page on Github (in development)](https://devacct101.github.io/super-octo-potato/ 'Creating a static web page on Github (in development)')
 * ✌ [Building a Flask app with Azure SQL database integration to host APIs (in development - PRIVATE REPO)](https://github.com/devacct101/flaskapi1 'Creating a Flask App')
+*  ✌ [Usiing R Studio with Github (PRIVATE REPO)](https://github.com/devacct101/dev-r-p001/ 'Using R Studio with Github)')
+
 * More coming soon
 
 * Creating a static web page on Github
