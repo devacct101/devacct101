@@ -12,20 +12,29 @@ It is mostly focused around data science, Python and API development.
 * 💻 Data Querying with SQL, PySpark
 * 🖼️ Data Visualisation with Power BI
 * 💿 Basic HTML
-* 🖨 Microsoft Excel (doesnt everybody)
+* 🧭 Github (well, some!)
 
 ### Soft Skills:
 * 📖 Domain Knowledge
 * 🤵 Project Management and Leadership
 * 🏂 Agile development methodologies
-* 🫂 Change Management
+* 🔊 Change Management
 
+### Key Apps:
+* 🖨 Microsoft Excel (doesn't everybody)
+* 📀 Microsoft Power BI (Dax, Power Query)
+* SSMS, Azure Data Studio, Visual Studio Code
+* 👩‍🔬 R Studio
+* 📚 Jupyter Notebooks
 
 ### Project Examples:
 
+These projects aren't designed to be a full show case of skills, more a useful knowledge store for documenting techologies for personal use. 
+
 * ✌ [Creating a static web page on Github (in development)](https://devacct101.github.io/super-octo-potato/ 'Creating a static web page on Github (in development)')
 * ✌ [Building a Flask app with Azure SQL database integration to host APIs (in development - PRIVATE REPO)](https://github.com/devacct101/flaskapi1 'Creating a Flask App')
-*  ✌ [Using R Studio with Github (PRIVATE REPO)](https://github.com/devacct101/dev-r-p001/ 'Using R Studio with Github)')
+* ✌ [Setting up R Studio with Github (PRIVATE REPO)](https://github.com/devacct101/dev-r-p001/ 'Using R Studio with Github)')
+* ✌ [Using Fast API with classes and basic HTML (PRIVATE REPO)](https://github.com/devacct101/dev-r0003/ 'Using Fast API)')
 
 * More coming soon
 
