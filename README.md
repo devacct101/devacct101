@@ -23,6 +23,7 @@ It is mostly focused around data science, Python and API development.
 ### Key Apps:
 * 🖨 Microsoft Excel (doesn't everybody)
 * 📀 Microsoft Power BI (Dax, Power Query)
+* 👜 Azure Synapse Analytics and PySpark
 * SSMS, Azure Data Studio, Visual Studio Code
 * 👩‍🔬 R Studio
 * 📚 Jupyter Notebooks
@@ -34,7 +35,9 @@ These projects aren't designed to be a full show case of skills, more a useful k
 * ✌ [Creating a static web page on Github (in development)](https://devacct101.github.io/super-octo-potato/ 'Creating a static web page on Github (in development)')
 * ✌ [Building a Flask app with Azure SQL database integration to host APIs (in development - PRIVATE REPO)](https://github.com/devacct101/flaskapi1 'Creating a Flask App')
 * ✌ [Setting up R Studio with Github (PRIVATE REPO)](https://github.com/devacct101/dev-r-p001/ 'Using R Studio with Github)')
-* ✌ [Using Fast API with classes and basic HTML (PRIVATE REPO)](https://github.com/devacct101/dev-r0003/ 'Using Fast API)')
+* ✌ [Using Fast API with classes and basic HTML (PRIVATE REPO)](https://github.com/devacct101/dev-r0003/ 'Using Fast API)')*
+* ✌ [Querying data in Databricks Community using Pyspark (PRIVATE REPO)](https://github.com/devacct101/dev-r0004/ 'Using PySpark and Databricks Community)')
+  
 
 * More coming soon
 
