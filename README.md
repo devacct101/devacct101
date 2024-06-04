@@ -35,14 +35,11 @@ These projects aren't designed to be a full show case of skills, more a useful k
 * ✌ [Creating a static web page on Github (in development)](https://devacct101.github.io/super-octo-potato/ 'Creating a static web page on Github (in development)')
 * ✌ [Building a Flask app with Azure SQL database integration to host APIs (in development - PRIVATE REPO)](https://github.com/devacct101/flaskapi1 'Creating a Flask App')
 * ✌ [Setting up R Studio with Github (PRIVATE REPO)](https://github.com/devacct101/dev-r-p001/ 'Using R Studio with Github)')
-* ✌ [Using Fast API with classes and basic HTML (PRIVATE REPO)](https://github.com/devacct101/dev-r0003/ 'Using Fast API)')*
+* ✌ [Using Fast API with classes and basic HTML (PRIVATE REPO)](https://github.com/devacct101/dev-r0003/ 'Using Fast API)')
 * ✌ [Querying data in Databricks Community using Pyspark (PRIVATE REPO)](https://github.com/devacct101/dev-r0004/ 'Using PySpark and Databricks Community)')
   
 
 * More coming soon
-
-* Creating a static web page on Github
-
 
 It probably won't be the most popular account on Github but here is some statistics about how much it is used. 
 
